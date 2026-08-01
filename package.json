@@ -1,0 +1,19 @@
+{
+  "name": "web-search-ai-assistant",
+  "version": "1.0.0",
+  "description": "AI-powered web search assistant that sends results via Google Sheets",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "node src/main.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "googleapis": "^126.0.1",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": ["ai", "web-search", "google-sheets", "automation"],
+  "author": "Your Name",
+  "license": "MIT"
+}
