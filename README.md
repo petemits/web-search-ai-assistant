@@ -7,7 +7,7 @@
 **Entry Point**: `main.js`  
 **Codebase**: 15 source files, 1066 lines of production‑ready code  
 **Architecture**: Object‑oriented  
-**Key Components**: 7 class(es): WebSearchAIAssistant, SheetService, AIService, EmailService, Helpers, 1 function(s): main
+**Key Components**: 7 class(es): Helpers, EmailService, SearchService, WebSearchAIAssistant, AIService, 1 function(s): main
 
 This project contains 7 class(es) and 1 function(s).
 
@@ -24,9 +24,9 @@ This project contains 7 class(es) and 1 function(s).
 - **Competitive Advantage**: Provides real‑time intelligence that outpaces competitors.
 - **Future‑Proof**: Designed to integrate with emerging AI and cloud technologies.
 
-## 🧠 My Approach: The Edge Compute Explorer
+## 🧠 My Approach: The AI Ethicist
 
-I push intelligence to the edge. From IoT to mobile, I design architectures that process data closer to the source, reducing latency.
+I build fair, transparent, and explainable AI. I mitigate bias, ensure privacy, and foster trust in algorithmic decisions.
 
 ### 📌 My Focus & Track Record
 - **Role**: AI Systems Integrator
@@ -38,7 +38,7 @@ I push intelligence to the edge. From IoT to mobile, I design architectures that
 ### 🎯 Why This Project Exists
 **web-search-ai-assistant** is a direct reflection of this approach – a practical, battle‑tested component designed to solve a specific, high‑value business problem.
 
-**For IoT Teams**: I build lightweight, resilient applications for constrained environments.
+**For Responsible AI Teams**: I ensure your AI does good, not harm.
 
 I am open to conversations about how I can apply this mindset to your organisation.
 ## 🎯 Revenue‑Generating Use Cases
@@ -49,16 +49,13 @@ I am open to conversations about how I can apply this mindset to your organisati
 ## 💡 Benefits & Ecosystem Integration
 
 ### ✨ Key Benefits
-- Revenue Acceleration: Directly impacts top‑line growth by enabling faster time‑to‑market and personalisation.
-- Continuous Deployment: Enables safe, automated, and frequent releases to production.
-- Personalised Customer Experiences: Delivers tailored interactions based on user behaviour and preferences.
-- Increased Conversion Rates: Optimises user journeys and funnels to drive revenue.
-- Enhanced Security Posture: Builds robust threat defence and data privacy into the application architecture.
-- Vendor Lock‑in Avoidance: Builds with open standards, ensuring flexibility and portability.
 - Global Reach: Enables multi‑region, multi‑language deployments for international audiences.
-- Scalability: Designed to handle growing volumes without proportional cost increases.
-- Seamless Third‑Party Integration: Connects effortlessly with external services, extending your ecosystem.
-- Rapid Prototyping Capabilities: Enables quick validation of ideas, reducing cost of failure.
+- Vendor Lock‑in Avoidance: Builds with open standards, ensuring flexibility and portability.
+- Resource Optimisation: Maximises output while minimising input, improving overall efficiency.
+- User Retention: Enhances customer experience through personalisation and faster response times.
+- Cross‑Functional Collaboration: Bridges gaps between business, design, and engineering teams.
+- Market Agility: Enables rapid iteration and deployment of new features.
+- Automated Compliance & Governance: Embeds regulatory requirements directly into the deployment pipeline.
 
 ### 🔗 Integrations
 - REST / GraphQL APIs (external services)
@@ -67,10 +64,11 @@ I am open to conversations about how I can apply this mindset to your organisati
 
 ## 📈 Scale to SaaS & Beyond
 
-- Event‑Driven Architecture: Integrate with message queues (Kafka, RabbitMQ) for asynchronous workflows.
-- API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
-- CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
 - Multi‑Tenancy: Extend to support multiple customers with isolated data and custom configurations.
+- Third‑Party Integrations: Expand to additional CRM, ERP, or marketing automation tools.
+- CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
+- API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
+- Event‑Driven Architecture: Integrate with message queues (Kafka, RabbitMQ) for asynchronous workflows.
 
 ## 🤖 AI Tools & Integrations (A–Z)
 
@@ -131,6 +129,24 @@ This project is designed to integrate seamlessly with a wide range of AI tools a
 | **ZenML** | MLOps framework for reproducible pipelines. |
 
 *This is a living list – new tools are constantly emerging. The modular design of this project makes it easy to plug in any AI service.*
+## 💻 AI Code Generation Tools (Free & Paid)
+
+To accelerate development, you can integrate these AI tools for code generation, autocompletion, and documentation. Pricing models are noted below.
+
+| Tool | Description | Pricing |
+| :--- | :--- | :--- |
+| **GitHub Copilot** | AI pair programmer. Free for open-source and verified students; paid plans from $10/month. | Freemium |
+| **Tabnine** | AI code completion for multiple languages. Free tier available; paid Pro from $12/month. | Freemium |
+| **Codeium** | AI-powered autocomplete and chat. Completely free for individual developers. | Free |
+| **Cursor** | AI-first code editor with built-in Copilot-like features. Free tier available; paid plans start at $20/month. | Freemium |
+| **Amazon CodeWhisperer** | AWS service for real‑time code suggestions. Free tier included; paid with AWS subscription. | Freemium |
+| **Replit Ghostwriter** | AI assistant in Replit's online IDE. Free tier included; paid plans from $7/month. | Freemium |
+| **Bito AI** | Code generation and explanation. Free for individuals; paid team plans. | Freemium |
+| **Sourcegraph Cody** | AI assistant for code understanding and generation. Free for individuals and open-source; paid for enterprise. | Freemium |
+| **Mintlify** | AI-powered documentation generator. Free tier; paid plans for teams. | Freemium |
+| **MightyMeld** | AI for React component generation. Free trial; paid plans from $15/month. | Freemium |
+
+*Most tools offer free tiers – perfect for personal projects and learning. Paid plans unlock higher limits and team features.*
 
 ## 📁 Project Structure
 ## 🚀 Full Program Guide (How to Run)
