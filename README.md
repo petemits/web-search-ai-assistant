@@ -1,7 +1,7 @@
 
-## 🚀 The AI Support Engineer
+## 🚀 The AI Developer Advocate
 
-With a portfolio spanning diverse AI projects – from automation pipelines and conversational agents to data analytics and cloud‑native architectures – I am equipped to step into the role of **AI Support Engineer** with confidence.
+With a portfolio spanning diverse AI projects – from automation pipelines and conversational agents to data analytics and cloud‑native architectures – I am equipped to step into the role of **AI Developer Advocate** with confidence.
 
 This repository is a testament to my ability to:
 - Design and deliver production‑grade AI solutions.
@@ -27,7 +27,7 @@ I bring **deep technical expertise**, a **commercial mindset**, and a **track re
 **Entry Point**: `main.js`  
 **Codebase**: 15 source files, 1066 lines of production‑ready code  
 **Architecture**: Object‑oriented  
-**Key Components**: 7 class(es): SheetService, AIService, Helpers, WebSearchAIAssistant, FileService, 1 function(s): main
+**Key Components**: 7 class(es): SearchService, AIService, WebSearchAIAssistant, FileService, EmailService, 1 function(s): main
 
 This project contains 7 class(es) and 1 function(s).
 
@@ -44,9 +44,9 @@ This project contains 7 class(es) and 1 function(s).
 - **Competitive Advantage**: Provides real‑time intelligence that outpaces competitors.
 - **Future‑Proof**: Designed to integrate with emerging AI and cloud technologies.
 
-## 🧠 My Approach: The Security Steward
+## 🧠 My Approach: The Integration Orchestrator
 
-I embed security into the DNA of the software. From zero‑trust architecture to vulnerability scanning, I protect your data and reputation.
+I connect siloed systems. Whether it's CRMs, ERPs, or legacy mainframes, I build bridges that enable seamless data flow.
 
 ### 📌 My Focus & Track Record
 - **Role**: AI Systems Integrator
@@ -58,24 +58,31 @@ I embed security into the DNA of the software. From zero‑trust architecture to
 ### 🎯 Why This Project Exists
 **web-search-ai-assistant** is a direct reflection of this approach – a practical, battle‑tested component designed to solve a specific, high‑value business problem.
 
-**For Security Teams**: I implement robust authentication, authorisation, and encryption strategies that stand up to audits.
+**For Enterprise IT**: I reduce complexity by harmonising disparate systems.
 
 I am open to conversations about how I can apply this mindset to your organisation.
+
+## 📌 Real Usage Examples
+
+- Instantiate the `SearchService` class and call its methods to perform the core logic.
+- Call the `main` function with appropriate parameters to execute the main task.
+- Run the script directly as a standalone utility for a specific business process.
+- Wrap this module as a library or plugin for seamless integration into larger applications.
 ## 🎯 Revenue‑Generating Use Cases
 
-1. Process Orchestration: Automate cross‑departmental workflows, reducing human touchpoints.
-2. Data Integration: Bridge legacy and modern systems, enabling seamless data flow.
+1. Data Integration: Bridge legacy and modern systems, enabling seamless data flow.
+2. Process Orchestration: Automate cross‑departmental workflows, reducing human touchpoints.
 
 ## 💡 Benefits & Ecosystem Integration
 
 ### ✨ Key Benefits
-- Scalability: Designed to handle growing volumes without proportional cost increases.
+- Resource Optimisation: Maximises output while minimising input, improving overall efficiency.
+- Operational Efficiency: Reduces manual effort by 60‑80%, freeing up talent for higher‑value work.
+- Risk Reduction: Automates compliance checks and error‑prone processes, minimising human error.
 - Cross‑Functional Collaboration: Bridges gaps between business, design, and engineering teams.
+- Seamless Third‑Party Integration: Connects effortlessly with external services, extending your ecosystem.
 - Effortless Maintenance: Designed for easy updates, patching, and long‑term supportability.
 - Increased Conversion Rates: Optimises user journeys and funnels to drive revenue.
-- Resilience Against Failures: Builds redundancy and fault‑tolerance, so systems never stop.
-- Cost Reduction: Lowers infrastructure and operational costs through intelligent automation.
-- Continuous Deployment: Enables safe, automated, and frequent releases to production.
 
 ### 🔗 Integrations
 - REST / GraphQL APIs (external services)
@@ -84,10 +91,9 @@ I am open to conversations about how I can apply this mindset to your organisati
 
 ## 📈 Scale to SaaS & Beyond
 
-- Analytics Dashboard: Add real‑time monitoring and business intelligence dashboards.
-- Cloud Deployment: Containerise with Docker and deploy to AWS, GCP, or Azure for global availability.
-- Multi‑Tenancy: Extend to support multiple customers with isolated data and custom configurations.
 - Event‑Driven Architecture: Integrate with message queues (Kafka, RabbitMQ) for asynchronous workflows.
+- API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
+- Analytics Dashboard: Add real‑time monitoring and business intelligence dashboards.
 - Third‑Party Integrations: Expand to additional CRM, ERP, or marketing automation tools.
 
 ## 🤖 AI Tools & Integrations (A–Z)
